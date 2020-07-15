@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+      html, body, #mapDiv {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="mapDiv"></div>
+      
+    <script nonce="ID+IQgzoLnFwxvz6yjPHhg==">
+      function onEmbedLoad() {
+        initEmbed([null,null,null,null,null,[[[2,"spotlight",null,null,null,null,null,[[null,null,null,null,null,null,null,null,null,null,null,[null,null,null,null,null,null,null,null,null,0,null,"placeholder",null,null,null,null,null,null,[0,"5,6,24,45,75,93",["0x0:0x6cd3eb9a9fcd23f1"]],2]],["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez",null,[null,null,31.6829101,-106.4045673],0],null,null,null,null,null,null,null,null,11,null,[null,"a",null,null,null,null,null,null,null,null,null,null,null,1,null,null,null,[null,null,null,null,0,0,null,null,0,null,null,1,null,null,null,0],null,null,null,[null,null,null,null,null,2,3,2]],null,null,null,null,null,[14,29]]]]],null,["en_US","bd"],[null,null,null,"/maps/api/js/ApplicationService.GetEntityDetails","/maps/embed/upgrade204",null,"/maps/embed/record204"],null,null,null,null,null,null,null,null,"P83zXY3iEI3az7sPuMGt6AQ",null,null,null,[[[34015.94359457683,-106.4045673,31.6829101],[0,0,0],null,13.10000038146973],null,0,[["0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1","Courtyard by Marriott Ciudad Juarez, Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., Mexico",[31.6829101,-106.4045673],"7841870425520677873"],"Courtyard by Marriott Ciudad Juarez",["Mision De Los Lagos 9020 Colonia","Partido Iglesias","32688 Cd Juárez, Chih., Mexico"],4.599999904632568,"306 reviews","http://www.google.com.bd/search?q=Courtyard+by+Marriott+Ciudad+Juarez,+Mision+De+Los+Lagos+9020+Colonia,+Partido+Iglesias,+32688+Cd+Ju%C3%A1rez,+Chih.,+Mexico\u0026ludocid=7841870425520677873#lrd=0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1,1",null,"+52 656 257 6300",null,null,null,["https://www.marriott.com/hotels/travel/cjscy-courtyard-ciudad-juarez/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2","marriott.com",null,null,"1,AOvVaw29hVbKlJwhN1KXO7cz88_t,,0ahUKEwjN_cr0lbPmAhUN7XMBHbhgC00Q61gIEigNMAA,,"],"Hotel","Mision De Los Lagos 9020 Colonia, Partido Iglesias, 32688 Cd Juárez, Chih., Mexico",null,null,null,null,null,["http://www.google.com.bd/search?q=Courtyard+by+Marriott+Ciudad+Juarez,+Mision+De+Los+Lagos+9020+Colonia,+Partido+Iglesias,+32688+Cd+Ju%C3%A1rez,+Chih.,+Mexico\u0026ludocid=7841870425520677873#lrd=0x86e75d90e99d597b:0x6cd3eb9a9fcd23f1,1","306 reviews",[["//lh3.googleusercontent.com/a-/AAuE7mBLgGsqlPANm7GYJL8mju1lUApxwXEq9B6YA7VV=s40-k-cc-mo","\"The food was great, we ordered Pasta Alfredo and Salmon.\""],["//lh3.googleusercontent.com/-xXgyY1GkLb4/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rctqt7HAfcKMT4lms80w29KL2_d0g/s40-k-cc-mo/photo.jpg","\"The staff is snobby, the food, beverage, and rooms are way over price.\""],["//lh5.googleusercontent.com/-dmBWOPBSJTY/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd3DgcMFBuv5cnycTGNKemSvSlBmg/s40-k-cc-mo/photo.jpg","\"For the room price,one would expect the breakfast included.\""]],"Warmly decorated quarters in a relaxed hotel offering a restaurant, a bar \u0026 a fitness room.",1,null,null,1],null,null,null,1,null,null,null,"ChIJe1md6ZBd54YR8SPNn5rr02w",null,null,"0ahUKEwjN_cr0lbPmAhUN7XMBHbhgC00Q8BcIAygBMAA","Courtyard By Marriot Juárez",null,["tel://+526562576300"],null,null,[null,"0ahUKEwjN_cr0lbPmAhUN7XMBHbhgC00QqtMBCAcoAzAA","853MMHMW+55","MHMW+55 Ciudad Juárez, Chihuahua, Mexico",2],1]],null,0,[null,null,null,null,null,null,null,null,null,[0,0]],0,null,null,null,null,null,null,[1]]);
+      }
+      function onApiLoad() {
+        var embed = document.createElement('script');
+        embed.src = "https://maps.gstatic.com/maps-api-v3/embed/js/39/4/init_embed.js";
+        document.body.appendChild(embed);
+      }
+    </script>
+    <script src="https://maps.googleapis.com/maps/api/js?client=google-maps-embed&amp;paint_origin=&amp;libraries=geometry,search&amp;v=3.exp&amp;language=en_US&amp;region=bd&amp;callback=onApiLoad" nonce="ID+IQgzoLnFwxvz6yjPHhg==" async defer></script>
+  </body>
+</html>
